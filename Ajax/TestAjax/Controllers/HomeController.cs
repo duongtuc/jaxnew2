@@ -38,6 +38,15 @@ namespace TestAjax.Controllers
                 Age = 22,
                 Status = true
 
+            },
+            new EmployeeModel()
+        {
+
+            Id = 4,
+                Name = "Nguyen van Cd",
+                Age = 22,
+                Status = true
+
             }
         };
 
@@ -47,12 +56,16 @@ namespace TestAjax.Controllers
             return View();
         }
         [HttpGet]
-        public JsonResult LoadData()
+        public JsonResult LoadData(int page , int pageSize = 3)
         {
-
+            //lay data can hien thi
+            var model = listEmployee.Skip((page - 1) * pageSize).Take(pageSize);
+            //tong so ban ghi
+            var totalRow = listEmployee.Count();
             return Json(new
             {
-                data = listEmployee,
+                data = model,
+                total= totalRow,
                 status = true
             }, JsonRequestBehavior.AllowGet);
         }
