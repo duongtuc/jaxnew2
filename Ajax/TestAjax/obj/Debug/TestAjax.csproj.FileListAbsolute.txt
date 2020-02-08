@@ -149,3 +149,10 @@ F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\obj\Debug\TestAjax.csproj.C
 F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\obj\Debug\TestAjax.csproj.CopyComplete
 F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\obj\Debug\TestAjax.dll
 F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\obj\Debug\TestAjax.pdb
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\Ajax.Data.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\EntityFramework.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\EntityFramework.SqlServer.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\Ajax.Data.pdb
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\Ajax.Data.dll.config
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\EntityFramework.xml
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\TestAjax\bin\EntityFramework.SqlServer.xml

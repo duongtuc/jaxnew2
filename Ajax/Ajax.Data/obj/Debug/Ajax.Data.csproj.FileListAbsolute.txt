@@ -1,0 +1,14 @@
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\Ajax.Data.dll.config
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\Ajax.Data.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\Ajax.Data.pdb
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\EntityFramework.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\EntityFramework.xml
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.csprojAssemblyReference.cache
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.csproj.CoreCompileInputs.cache
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.csproj.CopyComplete
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.dll
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.pdb
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.Migrations.CreateDB.resources
+F:\Tong hop file\Code Jquery Ajax\Ajax\Ajax\Ajax.Data\obj\Debug\Ajax.Data.csproj.GenerateResource.cache
