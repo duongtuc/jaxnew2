@@ -42,10 +42,8 @@ namespace TestAjax.Controllers
             bool status = true;
             var entity = _context.Employees.Find(employee.Id);
 
-            entity.Name = employee.Name;
             entity.Age = employee.Age;
-            entity.CreateDate = employee.CreateDate;
-            entity.Status = employee.Status;
+
             try
             {
                 _context.SaveChanges();
